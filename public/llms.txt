@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי את הטיפול האמבריונלי השקט בערסלי רחם גדולים. חוויה טיפולית ייחודית המשלבת תנועה מודעת, הרפיה עמוקה ותחושת חיבוק רך. התחילי את המסע שלך עכשיו.
+
+### שיטה
+https://example.com/method
+למדי על השיטה הייחודית של Qet המשלבת ערסלי רחם גדולים עם עקרונות טיפוליים עמוקים. גישה חדשנית למודעות גוף, ריפוי רגשי והרפיה מלאה דרך תנועה מתונה.
+
+### סדנאות
+https://example.com/workshops
+הצטרפי לסדנת טיפול אמבריונלי שקט וחווי את הכוח המרפא של ערסלי הרחם. קורסים מקצועיים למטפלות ומפגשי חוויה לכל מי שמחפשת ריפוי עמוק. הרשמה פתוחה כעת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Qet - quiet embryonic therapy
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Qet - quiet embryonic therapy
+
+### Category
+https://example.com/category/:slug
+מוצרים - Qet - quiet embryonic therapy
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
